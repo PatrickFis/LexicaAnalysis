@@ -1,0 +1,201 @@
+Creature Type,Component
+Aberration,Antenna
+Aberration,eye
+Aberration,flesh
+Aberration,phial of blood
+Aberration,Bone
+Aberration,egg
+Aberration,fat
+Aberration,pouch of claws
+Aberration,pouch of teeth
+Aberration,Phial of mucous
+Aberration,liver
+Aberration,stinger
+Aberration,tentacle
+Aberration,Brain
+Aberration,chitin
+Aberration,hide
+Aberration,main eye
+Beast,Antenna
+Beast,eye
+Beast,flesh
+Beast,phial of blood
+Beast,Beak
+Beast,bone
+Beast,egg
+Beast,fat
+Beast,fin
+Beast,horn
+Beast,pair of antlers
+Beast,pair of talons
+Beast,pair of tusks
+Beast,pincer
+Beast,pouch of claws
+Beast,pouch of teeth
+Beast,Heart
+Beast,liver
+Beast,poison gland
+Beast,pouch of feathers
+Beast,pouch of scales
+Beast,pouch of teeth
+Beast,Chitin plating
+Beast,scaly hide
+Beast,pelt
+Celestial,Eye
+Celestial,phial of blood
+Celestial,pouch of dust
+Celestial,Bone
+Celestial,horn
+Celestial,Heart
+Celestial,liver
+Celestial,pouch of feathers
+Celestial,pouch of scales
+Celestial,Brain
+Celestial,skin
+Celestial,Soul
+Construct,Phial of blood
+Construct,phial of oil
+Construct,phial of sap
+Construct,pouch of dust
+Construct,Flesh
+Construct,metal plating
+Construct,stone
+Construct,Bone
+Construct,liver
+Construct,gears
+Construct,Brain
+Construct,instructions
+Construct,Lifespark
+Dragon,Eye
+Dragon,flesh
+Dragon,phial of blood
+Dragon,Bone
+Dragon,egg
+Dragon,fat
+Dragon,pouch of claws
+Dragon,pouch of teeth
+Dragon,Horn
+Dragon,liver
+Dragon,pouch of scales
+Dragon,Heart
+Dragon,Breath sac
+Elemental,Primordial dust
+Elemental,Volatile mote of air
+Elemental,Volatile mote of earth
+Elemental,Volatile mote of fire
+Elemental,Volatile mote of water
+Elemental,Elemental core of air
+Elemental,Elemental core of earth
+Elemental,Elemental core of fire
+Elemental,Elemental core of water
+Fiend,Eye
+Fiend,flesh
+Fiend,phial of blood
+Fiend,pouch of dust
+Fiend,Bone
+Fiend,horn
+Fiend,pouch of teeth
+Fiend,Heart
+Fiend,liver
+Fiend,poison gland
+Fiend,pouch of feathers
+Fiend,pouch of scales
+Fiend,Brain
+Fiend,skin
+Fiend,Soul
+Fey,Antenna
+Fey,eye
+Fey,flesh
+Fey,phial of blood
+Fey,Beak
+Fey,bone
+Fey,egg
+Fey,horn
+Fey,pair of antlers
+Fey,pair of talons
+Fey,pair of tusks
+Fey,pouch of claws
+Fey,pouch of teeth
+Fey,Heart
+Fey,liver
+Fey,poison gland
+Fey,pouch of feathers
+Fey,pouch of scales
+Fey,tentacle
+Fey,tongue
+Fey,Brain
+Fey,scaly hide
+Fey,skin
+Fey,pelt
+Fey,Psyche
+Giant,Eye
+Giant,flesh
+Giant,pouch of nails
+Giant,phial of blood
+Giant,Bone
+Giant,fat
+Giant,pouch of teeth
+Giant,Heart
+Giant,liver
+Giant,Marrow
+Giant,skin
+Humanoid,Eye
+Humanoid,flesh
+Humanoid,pouch of nails
+Humanoid,phial of blood
+Humanoid,Bone
+Humanoid,fat
+Humanoid,pouch of teeth
+Humanoid,Heart
+Humanoid,liver
+Humanoid,Marrow
+Humanoid,skin
+Ooze,Phial of acid
+Ooze,Phial of mucous
+Ooze,Vesicle
+Ooze,Membrane
+Monstrosity,Antenna
+Monstrosity,eye
+Monstrosity,phial of blood
+Monstrosity,Beak
+Monstrosity,bone
+Monstrosity,egg
+Monstrosity,fat
+Monstrosity,fin
+Monstrosity,horn
+Monstrosity,pair of antlers
+Monstrosity,pair of talons
+Monstrosity,pair of tusks
+Monstrosity,pincer
+Monstrosity,pouch of claws
+Monstrosity,pouch of teeth
+Monstrosity,Heart
+Monstrosity,liver
+Monstrosity,poison gland
+Monstrosity,pouch of feathers
+Monstrosity,pouch of scales
+Monstrosity,stinger
+Monstrosity,tentacle
+Monstrosity,Chitin plating
+Monstrosity,scaly hide
+Monstrosity,pelt
+Plant,Phial of sap
+Plant,tuber
+Plant,Bundle of roots
+Plant,phial of wax
+Plant,pouch of hyphae
+Plant,pouch of leaves
+Plant,Poison gland
+Plant,pouch of pollen
+Plant,pouch of spores
+Plant,Bark
+Plant,fungal membrane
+Undead,Eye
+Undead,bone
+Undead,phial of congealed blood
+Undead,Marrow
+Undead,pouch of teeth
+Undead,rancid fat
+Undead,Ethereal ichor
+Undead,undying flesh
+Undead,Undying heart

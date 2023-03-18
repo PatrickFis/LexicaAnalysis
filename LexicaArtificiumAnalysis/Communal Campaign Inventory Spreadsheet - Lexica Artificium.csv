@@ -1,0 +1,327 @@
+Name,Type,"Suggested Off the shelf price (gp)",Rarity,Attunement,Creature Type,Subtype,Component
+Holy Water (flask),—,—,—,—,Celestial,,Phial of blood
++1 Ammunition,ammunition,25 each,U,—,Beast,,Pouch of teeth
++2 Ammunition,ammunition,100 each,R,—,Monstrosity,,Pouch of teeth
++3 Ammunition,ammunition,480 each,V,—,Dragon,,Pouch of teeth
+Arrow of slaying,ammunition,600 each,V,—,Target creature,,Phial of acid/blood/sap or primordial dust
++1 Armor,armor (generic),"1,500",R,—,Beast,,Bone
++2 Armor,armor (generic),"6,500",V,—,Monstrosity,,Bone
++3 Armor,armor (generic),"28,800",L,—,Dragon,,Bone
+Adamantime Armor,armor (generic),500,U,—,Material,,Adamantine
+Armor of Acid Resistance,armor (generic),"1,200",U,Req,Elemental,,Elemental core of earth
+Armor of Cold Resistance,armor (generic),"1,200",U,Req,Elemental,,Elemental core of water
+Armor of Fire Resistance,armor (generic),"1,500",U,Req,Elemental,,Elemental core of fire
+Armor of Force Resistance,armor (generic),"1,200",U,Req,Aberration,,Phial of Mucous
+Armor of Lightning Resistance,armor (generic),"1,200",U,Req,Elemental,,Elemental core of air
+Armor of Necrotic Resistance,armor (generic),"1,200",U,Req,Undead,,Undying Flesh
+Armor of Poison Resistance,armor (generic),"1,500",U,Req,Monstrosity,,Liver
+Armor of Psychic Resistance,armor (generic),"1,100",U,Req,Aberration,,Brain
+Armor of Radiant Resistance,armor (generic),"1,100",U,Req,Celestial,,Pouch of scales
+Armor of Thunder Resistance,armor (generic),"1,100",U,Req,Giant,,Nail
+Mithral Armor,armor (generic),400,U,—,Material,,Mithral
+Armor of Invulnerability,armor (heavy),"18,000",L,Req,Aberration,,Chitin
+Demon Armor,armor (heavy),"3,000",R,Req,Fiend,,Pouch of scales
+Dwarven Plate,armor (heavy),"6,500",V,—,Dragon,,Phial of blood
+Glamoured Studded Leather,armor (light),"2,100",R,—,Fey,,Phial of blood
+Black Dragon Scale Mail,armor (medium),"9,400",V,Req,Dragon,Black Dragon,Pouch of scales
+Blue Dragon Scale Mail,armor (medium),"9,400",V,Req,Dragon,Blue Dragon,Pouch of scales
+Brass Dragon Scale Mail,armor (medium),"9,400",V,Req,Dragon,Brass Dragon,Pouch of scales
+Bronze Dragon Scale Mail,armor (medium),"9,400",V,Req,Dragon,Bronze Dragon,Pouch of scales
+Copper Dragon Scale Mail,armor (medium),"9,400",V,Req,Dragon,Copper Dragon,Pouch of scales
+Elven Chain,armor (medium),"2,500",R,—,Fey,,Pouch of scales
+Gold Dragon Scale Mail,armor (medium),"9,400",V,Req,Dragon,Gold Dragon,Pouch of scales
+Green Dragon Scale Mail,armor (medium),"9,400",V,Req,Dragon,Green Dragon,Pouch of scales
+Red Dragon Scale Mail,armor (medium),"9,400",V,Req,Dragon,Red Dragon,Pouch of scales
+Silver Dragon Scale Mail,armor (medium),"9,400",V,Req,Dragon,Silver Dragon,Pouch of scales
+White Dragon Scale Mail,armor (medium),"9,400",V,Req,Dragon,White Dragon,Pouch of scales
+Armor of Vulnerability,armor (plate),500,U,Req,Fiend,,Phial of blood
+Plate Armor of Etherealness,armor (plate),"41,600",L,Req,Undead,,Undying heart
++1 Shield,armor (shield),"1,500",R,—,Beast,,Pouch of scales
++2 Shield,armor (shield),"6,500",V,—,Monstrosity,,Pouch of scales
++3 Shield,armor (shield),"28,800",L,—,Dragon,,Pouch of scales
+Animated Shield,armor (shield),"5,000",R,Req,Construct,,Instructions
+Arrow-Catching Shield,armor (shield),"5,000",R,Req,Celestial,,Skin
+Shield of Missile Attraction,armor (shield),"5,000",R,Req,Fiend,,Skin
+Spellguard Shield,armor (shield),"25,000",V,Req,Construct,,Metal plating
+Oil of Etherealness,potion,"1,900",R,—,Undead,,Ethereal ichor
+Oil of Sharpness,potion,"4,800",V,—,Fey,,Fat
+Oil of Slipperiness,potion,480,U,—,Construct,,Phial of oil
+Philter of Love,potion,180,U,—,Fey,,Phial of blood
+Potion of Acid Resistance,potion,240,U,—,Elemental,,Volatile mote of earth
+Potion of Animal Friendship,potion,200,U,—,Beast,,Phial of blood
+Potion of Clairvoyance,potion,900,R,—,Celestial,,Eye
+Potion of Climbing,potion,50,C,—,Beast,,Pouch of claws
+Potion of Cloud Giant Strength,potion,"6,000",V,—,Giant,Cloud Giant,Nail
+Potion of Cold Resistance,potion,240,U,—,Giant,Frost Giant,Fat
+Potion of Diminution,potion,270,U,—,Humanoid,Gnome,Phial of blood
+Potion of Fire Giant Strength,potion,"3,000",R,—,Giant,Fire Giant,Nail
+Potion of Fire Resistance,potion,300,U,—,Giant,Fire Giant,Fat
+Potion of Flying,potion,900,R,—,Dragon,,Fat
+Potion of Force Resistance,potion,240,U,—,Aberration,,Fat
+Potion of Frost Giant Strength,potion,"1,500",R,—,Giant,Frost Giant,Nail
+Potion of Gaseous Form,potion,900,R,—,Ooze,,Membrane
+Potion of Greater Healing,potion,150,U,—,Beast,,Liver
+Potion of Growth,potion,270,U,—,Humanoid,Duergar,Phial of blood
+Potion of Healing,potion,50,C,—,Beast,,Fat
+Potion of Heroism,potion,180,R,—,Celestial,,Phial of blood
+Potion of Hill Giant Strength,potion,500,U,—,Giant,Hill Giant,Nail
+Potion of Invisibility,potion,900,V,—,Humanoid,Duergar,Skin
+Potion of Lightning Resistance,potion,240,U,—,Giant,Storm Giant,Fat
+Potion of Mind Reading,potion,180,U,—,Aberration,,Phial of blood
+Potion of Necrotic Resistance,potion,240,U,—,Undead,,Phial of congealed blood
+Potion of Poison,potion,180,U,—,Plant,,Poison gland
+Potion of Poison Resistance,potion,300,U,—,Fiend,,Fat
+Potion of Psychic Resistance,potion,220,U,—,Aberration,,Fat
+Potion of Radiant Resistance,potion,220,U,—,Celestial,,Fat
+Potion of Speed,potion,4800,V,—,Fey,,Liver
+Potion of Stone Giant Strength,potion,"1,500",R,—,Giant,Stone Giant,Nail
+Potion of Storm GiantStrength,potion,"30,000",L,—,Giant,Storm Giant,Nail
+Potion of Superior Healing,potion,450,R,—,Monstrosity,,Fat
+Potion of Supreme Healing,potion,1350,V,—,Monstrosity,,Liver
+Potion of Thunder Resistance,potion,220,U,—,Giant,Storm Giant,Fat
+Potion of Water Breathing,potion,180,U,—,Beast,,Fin
+Ring of Acid Resistance,ring,"1,200",U,Req,Dragon,Black Dragon,Eye
+Ring of Air Elemental Command,ring,"35,000",L,Req,Elemental,,Volatile mote of air
+Ring of Animal Influence,ring,"1,500",R,—,Beast,,Heart
+Ring of Cold Resistance,ring,"4,000",U,Req,Dragon,White Dragon,Eye
+Ring of Djinni Summoning,ring,"90,000",L,Req,Elemental,,Elemental core of air
+Ring of Earth Elemental Command,ring,"35,000",L,Req,Elemental,,Volatile mote of earth
+Ring of Evasion,ring,"5,000",R,Req,Fey,,Pouch of feathers
+Ring of Feather Falling,ring,"2,100",R,Req,Beast,,Pouch of feathers
+Ring of Fire Elemental Command,ring,"35,000",L,Req,Elemental,,Volatile Mote of fire
+Ring of Fire Resistance,ring,"1,500",U,Req,Dragon,Red Dragon,Eye
+Ring of Force Resistance,ring,"1,200",U,Req,Construct,,Gears
+Ring of Free Action,ring,"16,000",V,Req,Plant,,Bundle of roots
+Ring of Invisibility,ring,"32,000",L,Req,Aberration,,Phial of mucous
+Ring of Jumping,ring,"1,000",U,Req,Beast,,Bone
+Ring of Lightning Resistance,ring,"1,200",U,Req,Dragon,Blue Dragon,Eye
+Ring of Mind Shielding,ring,"1,600",U,Req,Aberration,,Main eye
+Ring of Necrotic Resistance,ring,"1,200",U,Req,Undead,,Eye
+Ring of Poison Resistance,ring,"1,500",U,Req,Dragon,Green Dragon,Eye
+Ring of Protection,ring,"3,500",R,Req,Construct,,Metal plating
+Ring of Psychic Resistance,ring,"1,100",U,Req,Aberration,,Eye
+Ring of Radiant Resistance,ring,"1,100",U,Req,Celestial,,Eye
+Ring of Regeneration,ring,"2,000",V,Req,Plant,,Fungal membrane
+Ring of Shooting Stars,ring,"14,000",V,Req,Aberration,,Antenna
+Ring of Spell Storing,ring,"8,000",R,Req,Fey,,Bone
+Ring of Spell Turning,ring,"50,000",L,Req,Fiend,,Skin
+Ring of Swimming,ring,"1,800",U,—,Beast,,Fin
+Ring of Telekinesis,ring,"25,000",V,Req,Aberration,,Brain
+Ring of the Ram,ring,"5,000",R,Req,Beast,,Pair of antlers
+Ring of Thunder Resistance,ring,"1,100",U,Req,Giant,,Eye
+Ring of Warmth,ring,"4,500",U,Req,Elemental,,Volatile Mote of fire
+Ring of Water Elemental Command,ring,"35,000",L,Req,Elemental,,Elemental core of water
+Ring of Water Walking,ring,"1,500",U,—,Beast,,Fat
+Ring of X-ray Vision,ring,"6,000",R,Req,Aberration,,Eye
+Immovable Rod,rod,"2,000",U,—,Beast,,Bone
+Rod of Absorption,rod,"41,600",L,Req,Construct,,Stone
+Rod of Alertness,rod,"25,000",V,Req,Fey,,Eye
+Rod of Lordly Might,rod,"35,000",L,Req,Fiend,,Pouch of teeth
+Rod of Rulership,rod,"6,000",R,Req,Fiend,,Pouch of dust
+Rod of Security,rod,"20,000",V,—,Celestial,,Heart
+Staff of Charming,"staff, weapon","6,000",R,Req,Fey,,Psyche
+Staff of Fire,"staff, weapon","12,000",V,Req,Elemental,,Elemental core of fire
+Staff of Frost,"staff, weapon","12,000",V,Req,Elemental,,Elemental core of water
+Staff of Healing,"staff, weapon","6,000",R,Req,Celestial,,Phial of blood
+Staff of Power,"staff, weapon","65,000",L,Req,Giant,,Heart
+Staff of Striking,"staff, weapon","12,000",V,Req,Aberration,,Phial of blood
+Staff of Swarming Insects,"staff, weapon","5,000",R,Req,Beast,,Stinger
+Staff of the Magi,"staff, weapon","4,000,000",A,Req,Monstrosity,,Tentacle
+Staff of the Python,"staff, weapon","1,200",U,Req,Beast,,Pouch of Scales
+Staff of the Woodlands,"staff, weapon","22,000",V,Req,Elemental,,Elemental core of earth
+Staff of Thunder and Lightning,"staff, weapon","10,000",V,Req,Elemental,,Elemental core of air
+Staff of Withering,"staff, weapon","2,500",R,Req,Monstrosity,,Poison gland
++1 Wand of the War Mage,wand,750,U,Req,Aberration,,Bone
++2 Wand of the War Mage,wand,"1,500",R,Req,Aberration,,Bone
++3 Wand of the War Mage,wand,"6,200",V,Req,Aberration,,Bone
+Wand of Binding,wand,"5,000",R,Req,Plant,,Pouch of hyphae
+Wand of Enemy Detection,wand,"1,200",U,Req,Monstrosity,,Antenna
+Wand of Fear,wand,"5,000",R,Req,Undead,,Ethereal ichor
+Wand of Fireballs,wand,"25,000",V,Req,Elemental,,Volatile mote of fire
+Wand of Lightning Bolts,wand,"25,000",V,Req,Elemental,,Volatile mote of air
+Wand of Magic Detection,wand,600,U,—,Monstrosity,,Eye
+Wand of Magic Missiles,wand,900,U,—,Monstrosity,,Phial of blood
+Wand of Paralysis,wand,"10,000",V,Req,Fey,,Tongue
+Wand of Secrets,wand,600,U,—,Beast,,Antenna
+Wand of Web,wand,"4,000",R,Req,Beast,Spider,Poison gland
+Wand of Wonder,wand,"4,000",R,Req,Fey,,Liver
+Berserker Axe,weapon (axe),"6,200",V,—,Fiend,,Bone
+Dagger of Venom,weapon (dagger),"1,900",R,—,Fiend,,Poison gland
++1 Weapon,weapon (generic),750,U,—,Beast,,Pouch of claws
++2 Weapon,weapon (generic),"1,500",R,—,Monstrosity,,Pouch of claws
++3 Weapon,weapon (generic),"6,200",V,—,Dragon,,Pouch of claws
+Defender,weapon (generic),"24,000",L,Req,Construct,,Lifespark
+Dragon Slayer,weapon (generic),"2,400",R,—,Dragon,,Heart
+Flame Tongue,weapon (generic),"9,400",V,Req,Dragon,"Red, Gold, or Brass",Breath sac
+Frost Brand,weapon (generic),"9,400",V,Req,Dragon,White or Silver,Breath sac
+Giant Slayer,weapon (generic),"2,400",R,—,Giant,,Heart
+Holy Avenger,weapon (generic),"150,000",L,Req,Celestial,,Heart
+Nine Lives Stealer,weapon (generic),"9,400",V,Req,Beast,Cat,Heart
+Sword of Life Stealing,weapon (generic),"2,100",R,Req,Undead,,Marrow
+Sword of Sharpness,weapon (generic),"2,100",R,Req,Giant,,Tooth
+Sword of Wounding,weapon (generic),"2,100",R,Req,Humanoid,,Pouch of teeth
+Viscious Weapon,weapon (generic),350,U,—,Beast,,Pouch of teeth
+Javelin of Lightning,weapon (javelin),"1,200",U,—,Elemental,,Primordial dust
+Oathbow,weapon (longbow),"9,400",V,Req,Fey,,Tongue
+Sun Blade,weapon (longsword),"12,000",V,Req,Celestial,,Pouch of dust
+Mace of Disruption,weapon (mace),"7,000",R,Req,Undead,,Marrow
+Mace of Smiting,weapon (mace),"4,500",R,—,Construct,,Bone
+Mace of Terror,weapon (mace),"7,000",R,Req,Monstrosity,,Bone
+Hammer of Thunderbolts,weapon (maul),"16,000",V,—,Celestial,,Bone
+Scimitar of Speed,weapon (scimitar),"9,400",V,Req,Fey,,Pouch of feathers
+Vorpal weapon,weapon (slashing),"24,000",L,Req,Monstrosity,,Pouch of teeth
+Dancing Sword,weapon (sword),"2,100",R,Req,Construct,,Lifespark
+Trident of Fish Command,weapon (trident),700,U,Req,Beast,,Tentacle
+Dwarven Thrower,weapon (warhammer),"18,000",V,Req,Giant,,Tooth
+Amulet of Proof against Detection and Location,wondrous item,"1,000",U,Req,Fey,,Antenna
+Amulet of the Planes,wondrous item,"20,000",V,Req,Fiend,,Soul
+Apparatus of Kwalish,wondrous item,"12,000",V,—,Construct,,Brain
+Bag of Beans,wondrous item,"2,000",R,—,Plant,,Phial of sap
+Bag of Devouring,wondrous item,"6,500",V,—,Monstrosity,,Pelt
+Bag of Holding,wondrous item,"2,500",U,—,Aberration,,Hide
+"Bag of Tricks, Gray",wondrous item,500,U,—,Fey,,Skin
+"Bag of Tricks, Rust",wondrous item,500,U,—,Fey,,Skin
+"Bag of Tricks, Tan",wondrous item,500,U,—,Fey,,Skin
+Bead of Force,wondrous item,960,R,—,Construct,,Phial of oil
+Belt of Dwarvenkind,wondrous item,"9,500",V,Req,Monstrosity,,Pelt
+Boots of Elvenkind,wondrous item,"2,500",U,—,Plant,,Bark
+Boots of Levitation,wondrous item,"4,000",R,Req,Fey,,Skin
+Boots of Speed,wondrous item,"4,000",R,Req,Fey,,Pelt
+Boots of Striding and Springing,wondrous item,"1,800",U,Req,Construct,,Gears
+Boots of the Winterlands,wondrous item,"2,000",U,Req,Beast,,Pelt
+Bowl of Commanding Water Elementals,wondrous item,"3,200",R,—,Elemental,,Elemental core of water
+Bracers of Archery,wondrous item,"1,500",R,Req,Monstrosity,,Scaly Hide
+Bracers of Defense,wondrous item,"6,000",R,Req,Monstrosity,,Chitin Plating
+Brazier of Commanding Fire Elementals,wondrous item,"3,200",R,—,Elemental,,Elemental core of fire
+Brooch of Shielding,wondrous item,"1,500",U,Req,Monstrosity,,Pouch of scales
+Broom of Flying,wondrous item,"8,000",V,—,Plant,,Bundle of roots
+Candle of Invocation,wondrous item,"5,600",V,Req,Humanoid,,Fat
+Cape of the Mountebank,wondrous item,"1,600",R,—,Monstrosity,,Pelt
+"Carpet of Flying, 3-5 ft",wondrous item,"8,000",V,—,Plant,,Bundle of roots
+"Carpet of Flying, 5-7 ft",wondrous item,"12,000",V,—,Plant,,Bundle of roots
+"Carpet of Flying, 6-9 ft",wondrous item,"16,000",V,—,Plant,,Bundle of roots
+"Carpet of Flying,4-6 ft",wondrous item,"10,000",V,—,Plant,,Bundle of roots
+Censer of Controlling Air Elementals,wondrous item,"3,200",R,—,Elemental,,Elemental core of air
+Chime of Opening,wondrous item,"1,500",R,—,Humanoid,,Bone
+Circlet of Blasting,wondrous item,360,U,—,Monstrosity,,Pair of antlers
+Cloak of Arachnida,wondrous item,"9,400",V,Req,Beast,,Chitin plating
+Cloak of Displacement,wondrous item,"60,000",L,Req,Fey,,Pelt
+Cloak of Elvenkind,wondrous item,"5,000",R,Req,Plant,,Phial of sap
+Cloak of Protection,wondrous item,"3,500",R,Req,Beast,,Chitin plating
+Cloak of the Bat,wondrous item,"6,000",R,Req,Beast,,Pelt
+Cloak of the Manta Ray,wondrous item,"5,000",R,—,Beast,,Scaly hide
+Crystal Ball,wondrous item,"28,000",V,Req,Celestial,,Eye
+Cube of Force,wondrous item,"16,000",V,Req,Construct,,Instructions
+Cubic Gate,wondrous item,"40,000",L,—,Elemental,,Primordial dust
+Daern's Instant Fortress,wondrous item,"75,000",L,—,Construct,,Bone
+Decander of Endless Water,wondrous item,Depends,Depends,—,Elemental,,Volatile mote of water
+Deck of Illusions,wondrous item,600,U,—,Celestial,,Soul
+Dimensional Shackles,wondrous item,"2,500",R,—,Aberration,,Fat
+Dust of Disappearance,wondrous item,250,U,—,Elemental,,Primordial dust
+Dust of Dryness,wondrous item,180,U,—,Celestial,,Pouch of dust
+Dust of Sneezing and Choking,wondrous item,480,U,—,Fiend,,Pouch of dust
+"Elemental Gem, Blue Sapphire",wondrous item,960,R,—,Elemental,,Volatile mote of water
+"Elemental Gem, Emerald",wondrous item,960,R,—,Elemental,,Volatile mote of earth
+"Elemental Gem, Red Corundum",wondrous item,960,R,—,Elemental,,Volatile mote of fire
+"Elemental Gem, Yellow Diamond",wondrous item,960,R,—,Elemental,,Volatile mote of air
+Eversmoking Bottle,wondrous item,480,U,—,Plant,,Pouch of spores
+Eyes of Charming,wondrous item,"1,000",U,Req,Fey,,Heart
+Eyes of Minute Seeing,wondrous item,850,U,—,Beast,Bird,Eye
+Eyes of the Eagle,wondrous item,850,U,Req,Beast,Eagle,Eye
+"Figurine of Wondrous Power, Bronze Griffon",wondrous item,"2,000",R,—,Beast,Griffon,Pouch of feathers
+"Figurine of Wondrous Power, Ebony Fly",wondrous item,"4,000",R,—,Beast,Insect,Chitin Plating
+"Figurine of Wondrous Power, Golden Lions",wondrous item,600,U,—,Beast,Lion,Pelt
+"Figurine of Wondrous Power, Ivory Goats",wondrous item,"17,400",V,—,Beast,Goat,Horn
+"Figurine of Wondrous Power, Marble Elephant",wondrous item,"6,000",R,—,Beast,Elephant,Pair of tusks
+"Figurine of Wondrous Power, Obsidian Steed",wondrous item,"24,000",V,—,Beast,Horse,Bone
+"Figurine of Wondrous Power, Onyx Dog",wondrous item,"3,000",R,—,Beast,Dog or Wolf,Pouch of teeth
+"Figurine of Wondrous Power, Serpentine Owl",wondrous item,"7,000",R,—,Beast,Owl,Eye
+"Figuring of Wondrous Power, Silver Raven",wondrous item,"1,000",U,—,Beast,Bird,Beak
+Folding Boat,wondrous item,"3,000",R,—,Plant,,Bark
+Gem of Brightness,wondrous item,"5,000",R,—,Celestial,,Fat
+Gem of Seeing,wondrous item,"8,000",R,Req,Celestial,,Eye
+Gloves of Missile Snaring,wondrous item,"1,500",U,Req,Fey,,Scaly hide
+Gloves of Swimming and Climbing,wondrous item,900,U,Req,Beast,Marine,Pouch of scales
+Goggles of Night,wondrous item,"1,000",U,—,Monstrosity,,Eye
+Handy Haversack,wondrous item,"1,500",U,—,Aberration,,Hide
+Hat of Disguise,wondrous item,"1,200",U,Req,Fiend,Shapechanger,Skin
+Helm of Brilliance,wondrous item,"25,000",V,Req,Celestial,,Skin
+Helm of Comprehending Languages,wondrous item,500,U,—,Construct,,Brain
+Helm of Telepathy,wondrous item,"2,000",U,Req,Aberration,,Brain
+Helm of Teleportation,wondrous item,"23,000",V,Req,Fey,,Tentacle
+Horn of Blasting,wondrous item,450,U,—,Dragon,,Horn
+"Horn of Valhalla, Brass",wondrous item,"8,400",R,—,Beast,Large,Horn
+"Horn of Valhalla, Bronze",wondrous item,"14,000",V,—,Beast,Mammoth,Tusk
+"Horn of Valhalla, Iron",wondrous item,"28,800",L,—,Fiend,Balor,Horn
+"Horn of Valhalla, Silver",wondrous item,"5,600",R,—,Beast,Medium,Horn
+Horseshoes of a Zephyr,wondrous item,"6,200",V,—,Monstrosity,,Pouch of claws
+Horseshoes of Speed,wondrous item,"5,000",R,—,Beast,,Pouch of claws
+"Ioun Stone, Absorption",wondrous item,"4,800",V,Req,Aberration,,Chitin
+"Ioun Stone, Agility",wondrous item,"9,400",V,Req,Fey,,Psyche
+"Ioun Stone, Awareness",wondrous item,"9,400",R,Req,Dragon,,Heart
+"Ioun Stone, Fortitude",wondrous item,"9,400",V,Req,Fiend,,Soul
+"Ioun Stone, Greater Absorption",wondrous item,"41,600",L,Req,Construct,,Lifespark
+"Ioun Stone, Insight",wondrous item,"9,400",V,Req,Celestial,,Soul
+"Ioun Stone, Intellect",wondrous item,"9,400",V,Req,Fey,,Psyche
+"Ioun Stone, Leadership",wondrous item,"9,400",V,Req,Celestial,,Soul
+"Ioun Stone, Mastery",wondrous item,"41,600",L,Req,Fiend,,Soul
+"Ioun Stone, Protection",wondrous item,"2,100",R,Req,Material,,Adamantine
+"Ioun Stone, Regeneration",wondrous item,"9,400",V,Req,Undead,,Undying heart
+"Ioun Stone, Reserve",wondrous item,"4,200",R,Req,Humanoid,,Brain
+"Ioun Stone, Strength",wondrous item,"9,400",V,Req,Dragon,,Horn
+"Ioun Stone, Sustenance",wondrous item,"2,100",R,Req,Elemental,,Volatile mote of water
+Iron Bands of Bilarro,wondrous item,"4,000",R,—,Plant,,Bundle of roots
+Iron Flask,wondrous item,"28,800",L,—,Construct,,Metal plating
+Keoghtom's Ointment,wondrous item,360,U,—,Plant,,Pouch of leaves
+Lantern of Revealing,wondrous item,900,U,—,Fey,,Eye
+Mantle of Spell Resistance,wondrous item,"19,000",V,Req,Fiend,Rakshasa,Skin
+Manual of Clay Golems,wondrous item,"8,200",V,—,Construct,Clay Golem,Clay
+Manual of Flesh Golems,wondrous item,"6,200",V,—,Construct,Flesh Golem,Flesh
+Manual of Iron Golems,wondrous item,"12,200",V,—,Construct,Iron Golem,Metal plating
+Manual of Stone Golems,wondrous item,"9,200",V,—,Construct,Stone Golem,Stone
+Marvelous Pigments,wondrous item,200,V,—,Plant,,Phial of wax
+Medallion of Thoughts,wondrous item,"1,200",U,Req,Aberration,,Phial of blood
+Mirror of Life Trapping,wondrous item,"18,000",V,—,Undead,,Bone
+Necklace of Adaptation,wondrous item,"1,200",U,Req,Monstrosity,,Poison gland
+Necklace of Fireballs,wondrous item,400/bead,U-R,—,Dragon,"Brass, Gold, or Red",Breath sac
+Necklace of Prayer Beads,wondrous item,sum of all beads,U-V,Req,Celestial,,Pouch of teeth
+Orb of Dragonkind,wondrous item,"4,000,000",A,Req,Dragon,,Heart
+Pearl of Power,wondrous item,"1,000",U,Req,Dragon,,Pouch of teeth
+Periapt of Health,wondrous item,400,U,—,Monstrosity,,Heart
+Periapt of Proof against Poison,wondrous item,"5,000",R,—,Fey,,Poison gland
+Periapt of Wound Closure,wondrous item,800,U,Req,Ooze,,Phial of mucous
+Pipes of Haunting,wondrous item,800,U,—,Fey,,Bone
+Pipes of the Sewers,wondrous item,700,U,Req,Monstrosity,,Bone
+Portable Hole,wondrous item,"2,500",R,—,Aberration,,Hide
+Prayer Bead - Bless,wondrous item,300,U,—,Celestial,,Pouch of teeth
+Prayer Bead - Curing,wondrous item,600,U,—,Celestial,,Pouch of teeth
+Prayer Bead - Favor,wondrous item,"3,200",V,—,Celestial,,Pouch of teeth
+Prayer Bead - Smiting,wondrous item,600,U,—,Celestial,,Pouch of teeth
+Prayer Bead - Summons,wondrous item,"6,400",V,—,Celestial,,Pouch of teeth
+Prayer Bead - Wind Walk,wondrous item,"6,400",V,—,Celestial,,Pouch of teeth
+"Quaal's Feather Token, Anchor",wondrous item,50,C,—,Plant,,Bundle of roots
+"Quaal's Feather Token, Bird",wondrous item,"3,000",R,—,Beast,,Beak
+"Quaal's Feather Token, Fan",wondrous item,300,U,—,Monstrosity,,Pouch of feathers
+"Quaal's Feather Token, Swan Boat",wondrous item,"1,400",R,—,Monstrosity,,Beak
+"Quaal's Feather Token, Tree",wondrous item,50,C,—,Plant,,Bark
+"Quaal's Feather Token, Whip",wondrous item,600,U,—,Aberration,,Tentacle
+Quiver of Ehlonna,wondrous item,"1,000",U,—,Fey,,Pouch of teeth
+Robe of Eyes,wondrous item,"4,000",R,Req,Monstrosity,,Eye
+Robe of Scintillating Colors,wondrous item,"9,400",V,Req,Plant,,Pouch of pollen
+Robe of Stars,wondrous item,"18,000",V,Req,Aberration,,Eye
+Robe of the Archmagi,wondrous item,"41,600",L,Req,"Celestial (Evil), Humanoid (Neutral) or Fiend (Good) skin",,Skin
+Robe of Useful Items,wondrous item,300,U,—,Humanoid,,Skin
+Rope of Climbing,wondrous item,900,U,—,Monstrosity,,Pair of talons
+Rope of Entanglement,wondrous item,"2,000",R,—,Monstrosity,,Pincer
+Scarab of Protection,wondrous item,"41,600",L,Req,Undead,,Undying heart
+Slippers of Spider Climbing,wondrous item,"5,000",U,Req,Beast,Spider,Pouch of claws
+Sovereign Glue,wondrous item,"4,800",V,—,Ooze,,Phial of mucous
+Sphere of Annihilation,wondrous item,"15,000",V,—,Fiend,,Eye
+Stone of Controlling Earth Elementals,wondrous item,"3,200",R,—,Elemental,,Elemental core of earth
+Talisman of Pure Good,wondrous item,"72,000",L,Req,Celestial,,Heart
+Talisman of the Sphere,wondrous item,"15,000",V,Req,Celestial,,Eye
+Talisman of Ultimate Evil,wondrous item,"72,000",L,Req,Fiend,,Heart
+Universal Solvent,wondrous item,"22,400",L,—,Ooze,,Phial of acid
+Wind Fan,wondrous item,700,U,—,Monstrosity,,Pouch of feathers
+Winged Boots,wondrous item,"6,000",R,Req,Fiend,,Pouch of feathers
+Wings of Flying,wondrous item,"6,000",R,Req,Celestial,,Pouch of feathers
