@@ -30,7 +30,7 @@ namespace LexicaArtificiumAnalysis
             };
 
             // Store off crafting components
-            using var creatureTypeReader = new StreamReader(@"C:\Users\fisch\Downloads\CreatureTypesToComponentsList.csv");
+            using var creatureTypeReader = new StreamReader("CreatureTypesToComponentsList.csv");
             using var creatureTypeCsvReader = new CsvReader(creatureTypeReader, CultureInfo.InvariantCulture);
             List<CraftingComponent> craftingComponents = new();
             await foreach(var component in creatureTypeCsvReader.GetRecordsAsync<CraftingComponent>())
@@ -39,7 +39,7 @@ namespace LexicaArtificiumAnalysis
             }
 
             // Store off all the items and the skills needed to craft them
-            using var reader = new StreamReader(@"C:\Users\fisch\Downloads\Communal Campaign Inventory Spreadsheet - Lexica Artificium.csv");
+            using var reader = new StreamReader("Communal Campaign Inventory Spreadsheet - Lexica Artificium.csv");
             using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
             List<Item> items = new();
             await foreach (var item in csv.GetRecordsAsync<Item>())
