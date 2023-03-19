@@ -1,7 +1,6 @@
 ﻿using CsvHelper;
 using LexicaArtificiumAnalysis.Models;
 using System.Globalization;
-using System.Reflection;
 
 namespace LexicaArtificiumAnalysis
 {
