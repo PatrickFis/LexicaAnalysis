@@ -1,4 +1,5 @@
 ﻿using CsvHelper;
+using LexicaArtificiumAnalysis.Models;
 using System.Globalization;
 using System.Reflection;
 
@@ -112,7 +113,6 @@ namespace LexicaArtificiumAnalysis
                 if (craftingComponents.Contains(component) || ignoredCreatureTypes.Contains(component.CreatureType))
                 {
                     craftingComponents.Remove(component);
-                    continue;
                 }
             }
             craftingComponents.ForEach(c => Console.WriteLine($"{c.CreatureType} {c.Component}"));

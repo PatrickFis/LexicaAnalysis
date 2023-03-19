@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LexicaArtificiumAnalysis
+namespace LexicaArtificiumAnalysis.Models
 {
     public class CraftingComponent : IEquatable<CraftingComponent>
     {
@@ -15,12 +15,12 @@ namespace LexicaArtificiumAnalysis
 
         public bool Equals(CraftingComponent? other)
         {
-            if(other == null)
+            if (other == null)
             {
                 return false;
             }
 
-            return this.CreatureType.Equals(other.CreatureType, StringComparison.OrdinalIgnoreCase) && this.Component.Equals(other.Component, StringComparison.OrdinalIgnoreCase);
+            return CreatureType.Equals(other.CreatureType, StringComparison.OrdinalIgnoreCase) && Component.Equals(other.Component, StringComparison.OrdinalIgnoreCase);
         }
     }
 }
