@@ -13,10 +13,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Communal Campaign Inventory Spreadsheet - Lexica Artificium.csv">
+    <None Update="Resources\Communal Campaign Inventory Spreadsheet - Lexica Artificium.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="CreatureTypesToComponentsList.csv">
+    <None Update="Resources\CreatureTypesToComponentsList.csv">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
   </ItemGroup>
