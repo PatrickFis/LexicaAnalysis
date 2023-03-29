@@ -41,15 +41,20 @@ Beast,pouch of teeth
 Beast,Chitin plating
 Beast,scaly hide
 Beast,pelt
+Beast,stinger
+Beast,tentacle
+Beast,tusk
 Celestial,Eye
 Celestial,phial of blood
 Celestial,pouch of dust
 Celestial,Bone
+Celestial,fat
 Celestial,horn
 Celestial,Heart
 Celestial,liver
 Celestial,pouch of feathers
 Celestial,pouch of scales
+Celestial,pouch of teeth
 Celestial,Brain
 Celestial,skin
 Celestial,Soul
@@ -57,6 +62,7 @@ Construct,Phial of blood
 Construct,phial of oil
 Construct,phial of sap
 Construct,pouch of dust
+Construct,clay
 Construct,Flesh
 Construct,metal plating
 Construct,stone
@@ -103,6 +109,7 @@ Fiend,pouch of scales
 Fiend,Brain
 Fiend,skin
 Fiend,Soul
+Fiend,fat
 Fey,Antenna
 Fey,eye
 Fey,flesh
@@ -128,6 +135,7 @@ Fey,scaly hide
 Fey,skin
 Fey,pelt
 Fey,Psyche
+Fey,fat
 Giant,Eye
 Giant,flesh
 Giant,pouch of nails
@@ -148,7 +156,8 @@ Humanoid,fat
 Humanoid,pouch of teeth
 Humanoid,Heart
 Humanoid,liver
-Humanoid,Marrow
+Humanoid,Brain
+Humanoid,marrow
 Humanoid,skin
 Ooze,Phial of acid
 Ooze,Phial of mucous

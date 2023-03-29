@@ -17,7 +17,7 @@ Armor of Necrotic Resistance,armor (generic),"1,200",U,Req,Undead,,Undying Flesh
 Armor of Poison Resistance,armor (generic),"1,500",U,Req,Monstrosity,,Liver
 Armor of Psychic Resistance,armor (generic),"1,100",U,Req,Aberration,,Brain
 Armor of Radiant Resistance,armor (generic),"1,100",U,Req,Celestial,,Pouch of scales
-Armor of Thunder Resistance,armor (generic),"1,100",U,Req,Giant,,Nail
+Armor of Thunder Resistance,armor (generic),"1,100",U,Req,Giant,,Pouch of nails
 Mithral Armor,armor (generic),400,U,—,Material,,Mithral
 Armor of Invulnerability,armor (heavy),"18,000",L,Req,Aberration,,Chitin
 Demon Armor,armor (heavy),"3,000",R,Req,Fiend,,Pouch of scales
@@ -51,20 +51,20 @@ Potion of Acid Resistance,potion,240,U,—,Elemental,,Volatile mote of earth
 Potion of Animal Friendship,potion,200,U,—,Beast,,Phial of blood
 Potion of Clairvoyance,potion,900,R,—,Celestial,,Eye
 Potion of Climbing,potion,50,C,—,Beast,,Pouch of claws
-Potion of Cloud Giant Strength,potion,"6,000",V,—,Giant,Cloud Giant,Nail
+Potion of Cloud Giant Strength,potion,"6,000",V,—,Giant,Cloud Giant,Pouch of nails
 Potion of Cold Resistance,potion,240,U,—,Giant,Frost Giant,Fat
 Potion of Diminution,potion,270,U,—,Humanoid,Gnome,Phial of blood
-Potion of Fire Giant Strength,potion,"3,000",R,—,Giant,Fire Giant,Nail
+Potion of Fire Giant Strength,potion,"3,000",R,—,Giant,Fire Giant,Pouch of nails
 Potion of Fire Resistance,potion,300,U,—,Giant,Fire Giant,Fat
 Potion of Flying,potion,900,R,—,Dragon,,Fat
 Potion of Force Resistance,potion,240,U,—,Aberration,,Fat
-Potion of Frost Giant Strength,potion,"1,500",R,—,Giant,Frost Giant,Nail
+Potion of Frost Giant Strength,potion,"1,500",R,—,Giant,Frost Giant,Pouch of nails
 Potion of Gaseous Form,potion,900,R,—,Ooze,,Membrane
 Potion of Greater Healing,potion,150,U,—,Beast,,Liver
 Potion of Growth,potion,270,U,—,Humanoid,Duergar,Phial of blood
 Potion of Healing,potion,50,C,—,Beast,,Fat
 Potion of Heroism,potion,180,R,—,Celestial,,Phial of blood
-Potion of Hill Giant Strength,potion,500,U,—,Giant,Hill Giant,Nail
+Potion of Hill Giant Strength,potion,500,U,—,Giant,Hill Giant,Pouch of nails
 Potion of Invisibility,potion,900,V,—,Humanoid,Duergar,Skin
 Potion of Lightning Resistance,potion,240,U,—,Giant,Storm Giant,Fat
 Potion of Mind Reading,potion,180,U,—,Aberration,,Phial of blood
@@ -74,8 +74,8 @@ Potion of Poison Resistance,potion,300,U,—,Fiend,,Fat
 Potion of Psychic Resistance,potion,220,U,—,Aberration,,Fat
 Potion of Radiant Resistance,potion,220,U,—,Celestial,,Fat
 Potion of Speed,potion,4800,V,—,Fey,,Liver
-Potion of Stone Giant Strength,potion,"1,500",R,—,Giant,Stone Giant,Nail
-Potion of Storm GiantStrength,potion,"30,000",L,—,Giant,Storm Giant,Nail
+Potion of Stone Giant Strength,potion,"1,500",R,—,Giant,Stone Giant,Pouch of nails
+Potion of Storm GiantStrength,potion,"30,000",L,—,Giant,Storm Giant,Pouch of nails
 Potion of Superior Healing,potion,450,R,—,Monstrosity,,Fat
 Potion of Supreme Healing,potion,1350,V,—,Monstrosity,,Liver
 Potion of Thunder Resistance,potion,220,U,—,Giant,Storm Giant,Fat
@@ -158,7 +158,7 @@ Giant Slayer,weapon (generic),"2,400",R,—,Giant,,Heart
 Holy Avenger,weapon (generic),"150,000",L,Req,Celestial,,Heart
 Nine Lives Stealer,weapon (generic),"9,400",V,Req,Beast,Cat,Heart
 Sword of Life Stealing,weapon (generic),"2,100",R,Req,Undead,,Marrow
-Sword of Sharpness,weapon (generic),"2,100",R,Req,Giant,,Tooth
+Sword of Sharpness,weapon (generic),"2,100",R,Req,Giant,,Pouch of teeth
 Sword of Wounding,weapon (generic),"2,100",R,Req,Humanoid,,Pouch of teeth
 Viscious Weapon,weapon (generic),350,U,—,Beast,,Pouch of teeth
 Javelin of Lightning,weapon (javelin),"1,200",U,—,Elemental,,Primordial dust
@@ -172,7 +172,7 @@ Scimitar of Speed,weapon (scimitar),"9,400",V,Req,Fey,,Pouch of feathers
 Vorpal weapon,weapon (slashing),"24,000",L,Req,Monstrosity,,Pouch of teeth
 Dancing Sword,weapon (sword),"2,100",R,Req,Construct,,Lifespark
 Trident of Fish Command,weapon (trident),700,U,Req,Beast,,Tentacle
-Dwarven Thrower,weapon (warhammer),"18,000",V,Req,Giant,,Tooth
+Dwarven Thrower,weapon (warhammer),"18,000",V,Req,Giant,,Pouch of teeth
 Amulet of Proof against Detection and Location,wondrous item,"1,000",U,Req,Fey,,Antenna
 Amulet of the Planes,wondrous item,"20,000",V,Req,Fiend,,Soul
 Apparatus of Kwalish,wondrous item,"12,000",V,—,Construct,,Brain
